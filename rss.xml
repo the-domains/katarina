@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Katarina]]></title>
         <description><![CDATA[Katarina]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/katarina/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 18:13:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 18:14:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/katarina/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f4f41b5-9822-4ddc-9127-b0b7ef14781d.png">]]></description>
+            <link>https://thegrid.ai/katarina/5280006f-d684-4872-9b9f-ea96122ab7c6/index.html</link>
+            <guid isPermaLink="false">5280006f-d684-4872-9b9f-ea96122ab7c6</guid>
+            <pubDate>Mon, 11 Apr 2016 18:14:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello, world!</p>]]></description>
-            <link>undefined0e7f0ceb-f211-4a76-85e5-8c4d9e46d472/index.html</link>
+            <link>https://thegrid.ai/katarina/0e7f0ceb-f211-4a76-85e5-8c4d9e46d472/index.html</link>
             <guid isPermaLink="false">0e7f0ceb-f211-4a76-85e5-8c4d9e46d472</guid>
             <pubDate>Mon, 11 Apr 2016 18:13:15 GMT</pubDate>
         </item>
