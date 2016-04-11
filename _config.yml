@@ -1,0 +1,28 @@
+name: Katarina
+favicon: null
+layout_spectrum: 0.20544385188259184
+typography_spectrum: 0.915279250824824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3375535861123353
+  lightness: 0.09210924571380019
+  saturation: 0.6928466751705855
+  rhythmicContrast: 0.9409320435952395
+purpose: []
